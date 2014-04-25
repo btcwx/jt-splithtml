@@ -1,0 +1,14 @@
+{
+  "name": "jt-splithtml",
+  "version": "0.0.1",
+  "description": "split html by tags",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make"
+  },
+  "author": "wyicwx@gmail.com",
+  "license": "MIT"
+}
