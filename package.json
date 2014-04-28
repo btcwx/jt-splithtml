@@ -1,14 +1,13 @@
 {
   "name": "jt-splithtml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "split html by tags",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "through2": "~0.4.1",
-    "htmlparser2": "~3.7.1"
+    "through2": "~0.4.1"
   },
   "scripts": {
     "test": "make"
