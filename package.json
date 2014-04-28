@@ -6,6 +6,10 @@
   "directories": {
     "test": "test"
   },
+  "dependencies": {
+    "through2": "~0.4.1",
+    "htmlparser2": "~3.7.1"
+  },
   "scripts": {
     "test": "make"
   },
